@@ -13,6 +13,18 @@ Este boilerplate tem por objetivo não ser igual ao boilerplate tradicional, do 
 - Webpack-cli
 - Webpack-Dev-Server
 
+# Para Testar o Boilerplate:
+
+O nome de template utilizado no arquivo template.json é cra-template-academysm-boilerplate, com isso, você pode criar seus próprios projetos utilizando o seguinte comando:
+
+`npm create react-app (nome do Projeto) --cra-template-academysm-boilerplate`
+
+Caso você utilize o Yarn:
+
+`yarn create react-app (nome do Projeto) --cra-template-academysm-boilerplate`
+
+Dessa forma, você poderá utilizar e compilar seu próprio código utilizando o meu Boilerplate
+
 ## Sobre a Academy SM:
 
 A Academy SM tem como propósito ser uma rede social que conecta professores e alunos, além disso, é uma rede social que vai tornar possível que você estude e administre os conteúdos ministrados pelos seus professores da graduação e de outros cursos que você comprar. Com uma comunidade engajada, conseguiremos também a aba dúvidas, que te permitirá sanar e expressar suas dúvidas para uma comunidade de educadores, educandos e especialistas em cada área de atuação. A ideia é ser uma plataforma única onde você pode estudar o que você bem quiser.
